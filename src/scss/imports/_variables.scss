@@ -1,0 +1,23 @@
+/* Customs properties */
+:root {
+    /* Colors */
+    --black: #393939;
+    --white: #ececec;
+    --sec-shadow: #ffffff;
+    --black-border: #00000050;
+    --mark: rgb(127, 195, 255);
+  
+    /* Typography */
+    --roboto: "Roboto", sans-serif;
+  }
+  
+  /* Dark mode adaption */
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --black: #ececec;
+      --white: #303030;
+      --main-shadow: #242424;
+      --sec-shadow: #3c3c3c;
+      --black-border: #ffffff50;
+    }
+  }
