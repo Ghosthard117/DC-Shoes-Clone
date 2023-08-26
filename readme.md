@@ -11,8 +11,9 @@ This projects is a copy of the layout of the official website of DC Shoes, made 
 ![Javascript](https://img.shields.io/static/v1?label=&message=Javascript&color=yellow&logo=typescript&logoColor=white&style=for-the-badge)
 ![BEM Methodology](https://img.shields.io/static/v1?label=&message=BEM%20Methodology&color=17A1E6&logo=bem&logoColor=white&style=for-the-badge)
 
-## Screenshot
-
+# Screenshot
+#![Screenshot 2023-08-25 195654](https://github.com/Ghosthard117T/DC-Shoes-Clone/assets/132961867/10e43df5-3b4c-4749-a073-afe22e2df2c3)
+![Screenshot 2023-08-25 195632](https://github.com/Ghosthard117T/DC-Shoes-Clone/assets/132961867/54696007-d6c4-4dc2-bb91-f442ca99cff9)
 
 > Notes:
 >
